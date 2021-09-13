@@ -8,6 +8,6 @@
 --   
 4.[모듈로 만들기](https://github.com/kyunghyunHan/nodejs/blob/6aa94d7348c0f600ee3c989bba67178be47e4da9/module.js)   
 --   
-5.[노드 내장 객체 알아보기]()   
+5.[노드 내장 객체 알아보기](https://github.com/kyunghyunHan/nodejs/blob/c6a4b8c3575550e2eefa39b4b8a2b68fb7fdefd3/nodemodule.js)   
 --
 ex[서버]()
