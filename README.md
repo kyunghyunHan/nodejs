@@ -6,7 +6,7 @@
 --
 3.[REPL사용하기,js파일 실행하기](https://github.com/kyunghyunHan/nodejs/blob/3266156d99720bd5f8cdefafc75a7c03a73135f8/replstart.js)
 --   
-4.[모듈로 만들기]()   
+4.[모듈로 만들기](https://github.com/kyunghyunHan/nodejs/blob/6aa94d7348c0f600ee3c989bba67178be47e4da9/module.js)   
 --   
 5.[노드 내장 객체 알아보기]()   
 --
