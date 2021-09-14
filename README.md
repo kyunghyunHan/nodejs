@@ -14,9 +14,9 @@
 --
 7.[파일 시스템 접근하기](https://github.com/kyunghyunHan/nodejs/blob/6015bb04cd2930cfa47bd3331b1a59a8c59b1f02/filesystem.js).  
 --
-8.[이벤트 이해하기]().  
+8.[이벤트 이해하기](https://github.com/kyunghyunHan/nodejs/blob/91faab0ddd20fd349ca950e26ab0510c5071ba5b/event.js).  
 --
-9.[예외처리하기]().  
+9.[예외처리하기](https://github.com/kyunghyunHan/nodejs/blob/9eeba884f89f002941d93d516b3274dd4e914023/error1.js).  
 --
 10.[요청과 응답 이해하기]().  
 --
