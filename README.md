@@ -18,7 +18,7 @@
 --
 9.[예외처리하기](https://github.com/kyunghyunHan/nodejs/blob/9eeba884f89f002941d93d516b3274dd4e914023/error1.js).  
 --
-10.[요청과 응답 이해하기]().  
+10.[요청과 응답 이해하기](https://github.com/kyunghyunHan/nodejs/blob/5336c2d9249a40bfb9d584626951b10c25fb590b/http.js).  
 --
 11.[REST와 라우팅 사용]().  
 --
