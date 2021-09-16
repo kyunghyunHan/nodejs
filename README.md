@@ -20,7 +20,7 @@
 --
 10.[요청과 응답 이해하기](https://github.com/kyunghyunHan/nodejs/blob/5336c2d9249a40bfb9d584626951b10c25fb590b/http.js).  
 --
-11.[REST와 라우팅 사용]().  
+11.[REST와 라우팅 사용](https://github.com/kyunghyunHan/nodejs/blob/edca99a504526788356d971ec9d2d5379d1c689c/rest.js).  
 --
 12.[쿠키와 세션 이해]().  
 --
