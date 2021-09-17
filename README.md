@@ -1,5 +1,4 @@
 # nodejs
---
 1.[핵심개념 이해하기](https://github.com/kyunghyunHan/nodejs/blob/3266156d99720bd5f8cdefafc75a7c03a73135f8/nodestart.js)   
 --
 2.[알아두어야 할 자바스크립트 언어]()
