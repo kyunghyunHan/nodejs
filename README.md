@@ -1,6 +1,5 @@
 # nodejs
---
-1.[핵심개념 이해하기](https://github.com/kyunghyunHan/nodejs/blob/3266156d99720bd5f8cdefafc75a7c03a73135f8/nodestart.js)   
+💯1.[핵심개념 이해하기](https://github.com/kyunghyunHan/nodejs/blob/3266156d99720bd5f8cdefafc75a7c03a73135f8/nodestart.js)   
 --
 2.[알아두어야 할 자바스크립트 언어]()
 --
@@ -22,11 +21,11 @@
 --
 11.[REST와 라우팅 사용](https://github.com/kyunghyunHan/nodejs/blob/edca99a504526788356d971ec9d2d5379d1c689c/rest.js).  
 --
-12.[쿠키와 세션 이해]().  
+12.[쿠키와 세션 이해](https://github.com/kyunghyunHan/nodejs/blob/8c6037a77f5736c53f90aff8125130dcf595a89a/cookie.js).  
 --
-13.[http와 http2]()
+13.[http와 http2](https://github.com/kyunghyunHan/nodejs/blob/8c6037a77f5736c53f90aff8125130dcf595a89a/http2.js)
 --
-14.[cluster]()
+14.[cluster](https://github.com/kyunghyunHan/nodejs/blob/8c6037a77f5736c53f90aff8125130dcf595a89a/cluster.js)
 --
 15.[익스프레스 시작]()
 --
