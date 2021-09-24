@@ -29,9 +29,9 @@
 --
 15.[익스프레스 시작](https://github.com/kyunghyunHan/nodejs/blob/a5d4728a822836315a3fdc68cae6a5fbf45334b8/express.js)
 --
-16.[자주사용하는 미들웨어]()
+16.[자주사용하는 미들웨어](https://github.com/kyunghyunHan/nodejs/blob/c9c634d2b47ecd1536b81308be509941f83108c0/middle.js)
 --
-17.[Router 객체로 라우팅 분리]()
+17.[Router 객체로 라우팅 분리](https://github.com/kyunghyunHan/nodejs/blob/c9c634d2b47ecd1536b81308be509941f83108c0/router.js)
 --
 18.[req,res객체 ]()
 --
